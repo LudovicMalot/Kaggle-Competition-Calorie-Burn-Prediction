@@ -63,11 +63,8 @@ The model achieved a top-tier rank, demonstrating its high accuracy and effectiv
 
 | Metric                    | Value                                    |
 | ------------------------- | ---------------------------------------- |
-| 🏁 **Final Rank**          | **~700 / 3,500** (Top 20%)               |
-| 🎯 **Final Score (RMSLE)** | `0.05715`                                |
-| 🤏 **Proximity to #1**     | Just **0.00081** away from the top score |
-
-This result highlights the model's competitiveness and the success of the advanced ensembling and feature engineering strategies.
+| 🏁 **Final Rank**          | **370/4316** (Top 9%)                   |
+| 🎯 **Final Score (RMSLE)** | `0.05866`  (top is 0.05841)             |
 
 ---
 
